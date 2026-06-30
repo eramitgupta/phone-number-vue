@@ -1,6 +1,6 @@
 {
   "name": "@erag/phone-number-vue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimal Vue composable for country-aware phone input, masking, calling codes, and validation.",
   "homepage": "https://github.com/eramitgupta/phone-number-vue#readme",
   "repository": {
